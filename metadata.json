@@ -1,0 +1,7 @@
+{
+  "name": "ASL Real-time Gesture Recognition",
+  "description": "A web application that uses a webcam to recognize American Sign Language (ASL) hand gestures in real-time, displaying the detected letter, confidence, and accumulating letters into a word speller.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
